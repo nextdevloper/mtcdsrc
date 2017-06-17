@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/condition
+END
+S2RequiresNewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/condition/S2RequiresNewController.java
+END
+SqlFileRepositoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/condition/SqlFileRepositoryProxy.java
+END
+AppConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/condition/AppConfig.java
+END
+CommonsJdbcLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/condition/CommonsJdbcLogger.java
+END

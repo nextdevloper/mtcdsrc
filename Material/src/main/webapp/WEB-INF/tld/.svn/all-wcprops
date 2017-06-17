@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/tld
+END
+s.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/tld/s.tld
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/tld/struts-html.tld
+END
+f.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/tld/f.tld
+END
+struts-bean.tld
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/tld/struts-bean.tld
+END
+struts-tiles.tld
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/tld/struts-tiles.tld
+END

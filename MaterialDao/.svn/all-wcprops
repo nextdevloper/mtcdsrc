@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/material-proj/!svn/ver/331/mtcloud/trunk/MaterialDao
+END
+.factorypath
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/.factorypath
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/LICENSE.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/build.xml
+END
+s2jdbc-gen-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/s2jdbc-gen-build.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/material-proj/!svn/ver/125/mtcloud/trunk/MaterialDao/.checkstyle
+END
+MaterialCheckstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/material-proj/!svn/ver/251/mtcloud/trunk/MaterialDao/MaterialCheckstyle.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/.project
+END
+doma-gen-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/doma-gen-build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/.classpath
+END

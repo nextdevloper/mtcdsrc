@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/material-proj/!svn/ver/358/mtcloud/trunk/Material
+END
+.factorypath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/.factorypath
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/LICENSE.txt
+END
+checkstyle-6.0-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/checkstyle-6.0-all.jar
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/material-proj/!svn/ver/46/mtcloud/trunk/Material/build.xml
+END
+s2jdbc-gen-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/s2jdbc-gen-build.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/material-proj/!svn/ver/125/mtcloud/trunk/Material/.checkstyle
+END
+MaterialCheckstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/material-proj/!svn/ver/253/mtcloud/trunk/Material/MaterialCheckstyle.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/.classpath
+END
+javadoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/javadoc.xml
+END

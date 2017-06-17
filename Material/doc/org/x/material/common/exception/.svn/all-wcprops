@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/common/exception
+END
+MCBusinessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/common/exception/MCBusinessException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/common/exception/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/common/exception/package-tree.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/common/exception/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/common/exception/package-summary.html
+END
+MCRuntimeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/common/exception/MCRuntimeException.html
+END

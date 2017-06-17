@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/view/error
+END
+err-menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/view/error/err-menu.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/view/error/error.jsp
+END
+err-layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/view/error/err-layout.jsp
+END
+err-footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/view/error/err-footer.jsp
+END
+err-header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/view/error/err-header.jsp
+END

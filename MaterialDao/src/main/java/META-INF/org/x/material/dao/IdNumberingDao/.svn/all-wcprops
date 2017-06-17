@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/material-proj/!svn/ver/169/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/IdNumberingDao
+END
+selectByIdKind.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/material-proj/!svn/ver/169/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/IdNumberingDao/selectByIdKind.sql
+END
+selectByAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/material-proj/!svn/ver/169/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/IdNumberingDao/selectByAll.sql
+END

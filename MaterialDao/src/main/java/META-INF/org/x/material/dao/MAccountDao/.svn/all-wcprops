@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountDao
+END
+selectByIdWithOutDelFlg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountDao/selectByIdWithOutDelFlg.sql
+END
+selectBymailaddress.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountDao/selectBymailaddress.sql
+END
+selectById.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountDao/selectById.sql
+END
+selectByIdWithEnsureResult.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountDao/selectByIdWithEnsureResult.sql
+END

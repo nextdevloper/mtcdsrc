@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/material-proj/!svn/ver/314/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity
+END
+TMsgSendNormalListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSendNormalListener.java
+END
+DwCockpitLender.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/DwCockpitLender.java
+END
+MRLocbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/material-proj/!svn/ver/63/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MRLocbox.java
+END
+MLocationBoxMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/material-proj/!svn/ver/265/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MLocationBoxMaterial.java
+END
+DwCockpitUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/DwCockpitUsage.java
+END
+TMsgSendResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSendResultListener.java
+END
+BPointbalanceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/BPointbalanceListener.java
+END
+TBoxCntrctMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TBoxCntrctMove.java
+END
+MRBoxmaterialListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MRBoxmaterialListener.java
+END
+MAccountBlockListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccountBlockListener.java
+END
+MStructAcc.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/118/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MStructAcc.java
+END
+MBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/158/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBox.java
+END
+TBoxCntrctRentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TBoxCntrctRentListener.java
+END
+IdNumbering.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/169/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/IdNumbering.java
+END
+MBoxcntrctMoveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBoxcntrctMoveListener.java
+END
+MLocationBoxListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/material-proj/!svn/ver/53/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MLocationBoxListener.java
+END
+TMsgSendNormal.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSendNormal.java
+END
+TMsgSendNewsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSendNewsListener.java
+END
+MStructureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MStructureListener.java
+END
+TPointsettlementListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TPointsettlementListener.java
+END
+MBoxMaterialListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/material-proj/!svn/ver/148/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBoxMaterialListener.java
+END
+MRStrctaccListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MRStrctaccListener.java
+END
+MLocationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MLocationListener.java
+END
+MDBEnviromentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/288/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MDBEnviromentListener.java
+END
+MAccountAccountBlockListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/material-proj/!svn/ver/53/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccountAccountBlockListener.java
+END
+MAccountListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccountListener.java
+END
+TMsgSendResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSendResult.java
+END
+MCodeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MCodeListener.java
+END
+BPointbalance.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/BPointbalance.java
+END
+MRBoxmaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/190/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MRBoxmaterial.java
+END
+MAccountBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccountBlock.java
+END
+TBoxCntrctRent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TBoxCntrctRent.java
+END
+MAccountBlockSendListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccountBlockSendListener.java
+END
+TMsgSendListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSendListener.java
+END
+MBoxcntrctMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBoxcntrctMove.java
+END
+MLocationBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/63/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MLocationBox.java
+END
+TMsgSendNews.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSendNews.java
+END
+MMaterialListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MMaterialListener.java
+END
+MStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/105/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MStructure.java
+END
+MBoxcntrctRentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBoxcntrctRentListener.java
+END
+TPointsettlement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TPointsettlement.java
+END
+MBoxMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/190/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBoxMaterial.java
+END
+MRStrctacc.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/105/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MRStrctacc.java
+END
+MRLocboxListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MRLocboxListener.java
+END
+DwCockpitLenderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/DwCockpitLenderListener.java
+END
+MLocationBoxMaterialListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/material-proj/!svn/ver/219/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MLocationBoxMaterialListener.java
+END
+MLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/229/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MLocation.java
+END
+MDBEnviroment.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/288/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MDBEnviroment.java
+END
+DwCockpitUsageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/DwCockpitUsageListener.java
+END
+MAccountAccountBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccountAccountBlock.java
+END
+MAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccount.java
+END
+MCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MCode.java
+END
+TBoxCntrctMoveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TBoxCntrctMoveListener.java
+END
+MAccountBlockSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MAccountBlockSend.java
+END
+TMsgSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/TMsgSend.java
+END
+MMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/314/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MMaterial.java
+END
+MStructAccListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/material-proj/!svn/ver/87/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MStructAccListener.java
+END
+MBoxListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBoxListener.java
+END
+IdNumberingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/material-proj/!svn/ver/169/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/IdNumberingListener.java
+END
+MBoxcntrctRent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/org/x/material/entity/MBoxcntrctRent.java
+END

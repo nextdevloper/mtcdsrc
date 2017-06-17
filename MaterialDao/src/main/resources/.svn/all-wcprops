@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/material-proj/!svn/ver/21/mtcloud/trunk/MaterialDao/src/main/resources
+END
+app.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/app.dicon
+END
+convention.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/convention.dicon
+END
+s2container.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/s2container.dicon
+END
+env_ut.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/env_ut.txt
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/log4j.properties
+END
+s2jdbc.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/s2jdbc.dicon
+END
+jdbc.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/material-proj/!svn/ver/21/mtcloud/trunk/MaterialDao/src/main/resources/jdbc.dicon
+END
+creator.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/creator.dicon
+END
+customizer.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/customizer.dicon
+END
+env.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/env.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/optionalPlugin
+END
+bugCollectionCloud.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/optionalPlugin/bugCollectionCloud.jar
+END
+noUpdateChecks.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/optionalPlugin/noUpdateChecks.jar
+END
+poweruser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/optionalPlugin/poweruser.jar
+END

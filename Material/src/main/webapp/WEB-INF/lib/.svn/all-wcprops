@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib
+END
+s2-framework-2.4.45.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/s2-framework-2.4.45.jar
+END
+javassist-3.4.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/javassist-3.4.ga.jar
+END
+ognl-2.6.9-patch-20090427.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/ognl-2.6.9-patch-20090427.jar
+END
+struts-1.2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/struts-1.2.9.jar
+END
+commons-validator-1.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-validator-1.2.0.jar
+END
+commons-io-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-io-1.3.2.jar
+END
+commons-lang3-3.3.2-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-lang3-3.3.2-javadoc.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-collections-3.1.jar
+END
+ozacc-mail-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/ozacc-mail-1.2.2.jar
+END
+postgresql-9.1-902.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/postgresql-9.1-902.jdbc4.jar
+END
+velocity-tools-generic-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/velocity-tools-generic-1.2.jar
+END
+sa-struts-1.0.4-sp9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/sa-struts-1.0.4-sp9.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/aopalliance-1.0.jar
+END
+mail-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/mail-1.4.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-logging-1.1.jar
+END
+commons-digester-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-digester-1.6.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar
+END
+geronimo-annotation_1.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/geronimo-annotation_1.0_spec-1.0.jar
+END
+jakarta-taglibs-standard-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/jakarta-taglibs-standard-1.1.2.jar
+END
+geronimo-jta_1.1_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.0.jar
+END
+commons-fileupload-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.jar
+END
+jstl-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/jstl-1.1.2.jar
+END
+log4j-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/log4j-1.2.13.jar
+END
+doma-1.36.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/doma-1.36.0.jar
+END
+s2-extension-2.4.45.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/s2-extension-2.4.45.jar
+END
+s2-tiger-2.4.45.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/s2-tiger-2.4.45.jar
+END
+geronimo-interceptor_3.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/geronimo-interceptor_3.0_spec-1.0.jar
+END
+poi-3.0-FINAL.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/poi-3.0-FINAL.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/activation-1.1.jar
+END
+s2mai-tiger-0.9.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/s2mai-tiger-0.9.7.jar
+END
+freemarker-2.3.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/freemarker-2.3.13.jar
+END
+h2-1.0.69.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/h2-1.0.69.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/jakarta-oro-2.0.8.jar
+END
+geronimo-ejb_3.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/geronimo-ejb_3.0_spec-1.0.jar
+END
+geronimo-jpa_3.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/geronimo-jpa_3.0_spec-1.0.jar
+END
+velocity-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/velocity-1.5.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-beanutils-1.7.0.jar
+END
+s2mai-0.9.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/s2mai-0.9.7.jar
+END
+commons-lang3-3.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-lang3-3.3.2.jar
+END
+commons-el-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/webapp/WEB-INF/lib/commons-el-1.0.jar
+END

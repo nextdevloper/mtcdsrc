@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/findbugs/bin/experimental
+END
+backdateHistoryUsingSource
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/findbugs/bin/experimental/backdateHistoryUsingSource
+END
+obfuscate
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/findbugs/bin/experimental/obfuscate
+END
+treemapVisualization
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/findbugs/bin/experimental/treemapVisualization
+END
+churn
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/findbugs/bin/experimental/churn
+END

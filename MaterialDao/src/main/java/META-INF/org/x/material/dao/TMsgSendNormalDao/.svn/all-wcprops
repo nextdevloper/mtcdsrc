@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/material-proj/!svn/ver/274/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/TMsgSendNormalDao
+END
+selectByIdWithPeriod.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/TMsgSendNormalDao/selectByIdWithPeriod.sql
+END
+selectBySendId.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/TMsgSendNormalDao/selectBySendId.sql
+END
+selectByAccId.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/material-proj/!svn/ver/274/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/TMsgSendNormalDao/selectByAccId.sql
+END
+selectById.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/material-proj/!svn/ver/274/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/TMsgSendNormalDao/selectById.sql
+END

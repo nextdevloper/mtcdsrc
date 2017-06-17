@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/material-proj/!svn/ver/283/mtcloud/trunk/Material/src/test/java/org/x/material/common/util
+END
+CommonUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/283/mtcloud/trunk/Material/src/test/java/org/x/material/common/util/CommonUtilTest.java
+END
+EncryptUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/81/mtcloud/trunk/Material/src/test/java/org/x/material/common/util/EncryptUtilTest.java
+END
+DateUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/57/mtcloud/trunk/Material/src/test/java/org/x/material/common/util/DateUtilTest.java
+END

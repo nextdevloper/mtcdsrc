@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountAccountBlockDao
+END
+selectByAccont.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountAccountBlockDao/selectByAccont.sql
+END
+selectByAccountWithInsideMatching.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountAccountBlockDao/selectByAccountWithInsideMatching.sql
+END

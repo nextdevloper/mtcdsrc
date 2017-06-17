@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/266/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MLocationDao
+END
+selectByLocId.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/material-proj/!svn/ver/229/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MLocationDao/selectByLocId.sql
+END
+selectByLocNmWithInsideMatching.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/material-proj/!svn/ver/266/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MLocationDao/selectByLocNmWithInsideMatching.sql
+END

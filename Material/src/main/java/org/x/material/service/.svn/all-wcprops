@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/material-proj/!svn/ver/325/mtcloud/trunk/Material/src/main/java/org/x/material/service
+END
+PassDigestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/java/org/x/material/service/PassDigestService.java
+END
+NumberingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/material-proj/!svn/ver/179/mtcloud/trunk/Material/src/main/java/org/x/material/service/NumberingService.java
+END
+LeftSideMenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/27/mtcloud/trunk/Material/src/main/java/org/x/material/service/LeftSideMenuService.java
+END
+CdMstService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/19/mtcloud/trunk/Material/src/main/java/org/x/material/service/CdMstService.java
+END
+MAccountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/248/mtcloud/trunk/Material/src/main/java/org/x/material/service/MAccountService.java
+END
+MDBEnviromentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/material-proj/!svn/ver/288/mtcloud/trunk/Material/src/main/java/org/x/material/service/MDBEnviromentService.java
+END
+TMessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/274/mtcloud/trunk/Material/src/main/java/org/x/material/service/TMessageService.java
+END
+MMaterialService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/material-proj/!svn/ver/79/mtcloud/trunk/Material/src/main/java/org/x/material/service/MMaterialService.java
+END

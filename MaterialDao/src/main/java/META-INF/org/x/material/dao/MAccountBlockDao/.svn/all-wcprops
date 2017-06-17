@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountBlockDao
+END
+selectByaccId.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountBlockDao/selectByaccId.sql
+END
+selectByaccIdblockId.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MAccountBlockDao/selectByaccIdblockId.sql
+END

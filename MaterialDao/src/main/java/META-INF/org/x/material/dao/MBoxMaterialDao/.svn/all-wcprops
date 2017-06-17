@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/material-proj/!svn/ver/331/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MBoxMaterialDao
+END
+selectByMaterialId.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/material-proj/!svn/ver/331/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MBoxMaterialDao/selectByMaterialId.sql
+END
+selectByMaterialNmWithInsideMatching.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/material-proj/!svn/ver/161/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao/MBoxMaterialDao/selectByMaterialNmWithInsideMatching.sql
+END

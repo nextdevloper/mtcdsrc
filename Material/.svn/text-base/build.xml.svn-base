@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="Material">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="../../../devtools/pleiades4/eclipse/"/>
+    <property name="MaterialDao.location" value="../MaterialDao"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <property name="compiler" value="javac1.7"/>
+    <property name="encoding" value="UTF-8"/>
+    <property name="findbugs.dir" value="${basedir}/findbugs"/>
+    <property name="report.dir" value="${basedir}/report"/>
+    <path id="Web App ライブラリー.libraryclasspath">
+        <pathelement location="../../../MaterialDao"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/activation-1.1.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/aopalliance-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-beanutils-1.7.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-collections-3.1.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-digester-1.6.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-el-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-io-1.3.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-lang3-3.3.2-javadoc.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-lang3-3.3.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-logging-1.1.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-validator-1.2.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/doma-1.36.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/freemarker-2.3.13.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-annotation_1.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-ejb_3.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-interceptor_3.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-jpa_3.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/h2-1.0.69.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/jakarta-oro-2.0.8.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/jakarta-taglibs-standard-1.1.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/javassist-3.4.ga.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/jstl-1.1.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/log4j-1.2.13.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/mail-1.4.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/ognl-2.6.9-patch-20090427.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/ozacc-mail-1.2.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/poi-3.0-FINAL.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/postgresql-9.1-902.jdbc4.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2-extension-2.4.45.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2-framework-2.4.45.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2-tiger-2.4.45.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2mai-0.9.7.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2mai-tiger-0.9.7.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/sa-struts-1.0.4-sp9.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/struts-1.2.9.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/velocity-1.5.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/velocity-tools-generic-1.2.jar"/>
+    </path>
+    <path id="EAR ライブラリー.libraryclasspath"/>
+    <path id="MaterialDao.classpath">
+        <pathelement location="${MaterialDao.location}/target/classes"/>
+        <pathelement location="${MaterialDao.location}/target/test-classes"/>
+        <pathelement location="${MaterialDao.location}/lib/aopalliance-1.0.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/cglib-nodep-2.1_3.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/commons-logging-1.1.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/easymock-2.4.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/easymockclassextension-2.4.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/freemarker-2.3.13.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/geronimo-annotation_1.0_spec-1.0.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/geronimo-jpa_3.0_spec-1.0.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/geronimo-jta_1.1_spec-1.0.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/geronimo-servlet_2.4_spec-1.0.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/h2-1.0.69.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/javassist-3.4.ga.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/junit-4.4.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/log4j-1.2.13.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/ognl-2.6.9-patch-20090427.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/poi-3.0-FINAL.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/s2-extension-2.4.45.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/s2-framework-2.4.45.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/s2-tiger-2.4.45.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/s2jdbc-gen-2.4.45.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/svnkit-1.2.0.4949.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/postgresql-9.1-902.jdbc4.jar"/>
+        <path refid="EAR ライブラリー.libraryclasspath"/>
+        <pathelement location="${MaterialDao.location}/lib/doma-1.36.0.jar"/>
+        <pathelement location="${MaterialDao.location}/lib/doma-gen-1.35.0.jar"/>
+    </path>
+    <path id="Material.classpath">
+        <pathelement location="src/main/webapp/WEB-INF/classes"/>
+        <pathelement location="target/test-classes"/>
+        <path refid="Web App ライブラリー.libraryclasspath"/>
+        <pathelement location="lib/cglib-nodep-2.1_3.jar"/>
+        <pathelement location="lib/easymock-2.4.jar"/>
+        <pathelement location="lib/easymockclassextension-2.4.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/mail-1.4.jar"/>
+        <pathelement location="lib/freemarker-2.3.13.jar"/>
+        <pathelement location="lib/geronimo-jsp_2.0_spec-1.0.jar"/>
+        <pathelement location="lib/geronimo-servlet_2.4_spec-1.0.jar"/>
+        <pathelement location="lib/junit-4.4.jar"/>
+        <pathelement location="lib/s2jdbc-gen-2.4.45.jar"/>
+        <pathelement location="lib/svnkit-1.2.0.4949.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/aopalliance-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-lang3-3.3.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-lang3-3.3.2-javadoc.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-beanutils-1.7.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-collections-3.1.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-digester-1.6.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-el-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-io-1.3.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-logging-1.1.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/commons-validator-1.2.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-annotation_1.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-ejb_3.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-interceptor_3.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-jpa_3.0_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/h2-1.0.69.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/jakarta-oro-2.0.8.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/jakarta-taglibs-standard-1.1.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/javassist-3.4.ga.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/jstl-1.1.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/log4j-1.2.13.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/ognl-2.6.9-patch-20090427.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/poi-3.0-FINAL.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2-extension-2.4.45.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2-framework-2.4.45.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2-tiger-2.4.45.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/sa-struts-1.0.4-sp9.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/struts-1.2.9.jar"/>
+        <path refid="MaterialDao.classpath"/>
+        <pathelement location="lib/activation-1.1.jar"/>
+        <pathelement location="lib/commons-collections-2.1.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/activation-1.1.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/doma-1.36.0.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/freemarker-2.3.13.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/ozacc-mail-1.2.2.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/postgresql-9.1-902.jdbc4.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2mai-0.9.7.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/s2mai-tiger-0.9.7.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/velocity-1.5.jar"/>
+        <pathelement location="src/main/webapp/WEB-INF/lib/velocity-tools-generic-1.2.jar"/>
+    </path>
+    <target name="init">
+    	<mkdir dir="${report.dir}"/>
+        <mkdir dir="src/main/webapp/WEB-INF/classes"/>
+        <mkdir dir="target/test-classes"/>
+        <copy includeemptydirs="false" todir="src/main/webapp/WEB-INF/classes">
+            <fileset dir="src/main/java">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="src/main/webapp/WEB-INF/classes">
+            <fileset dir="src/main/resources">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="target/test-classes">
+            <fileset dir="src/test/java">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="target/test-classes">
+            <fileset dir="src/test/resources">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="src/main/webapp/WEB-INF/classes">
+            <fileset dir=".apt_generated">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="src/main/webapp/WEB-INF/classes"/>
+        <delete dir="target/test-classes"/>
+    	<delete file="${report.dir}/**/*.xml"/>
+    </target>
+    <target depends="clean" name="cleanall">
+        <ant antfile="build.xml" dir="${MaterialDao.location}" inheritAll="false" target="clean"/>
+    </target>
+    <!-- =================================================
+          build
+    ===================================================-->
+    <target depends="build-war-project" name="build">
+    	<copy file="Material.war" todir="/glassfish3/glassfish/domains/domain1/autodeploy"/>
+    </target>
+    <target depends="build-subprojects,build-project,checkstyle,findbugs" name="build-war-project">
+        <war destfile="Material.war" webxml="src/main/webapp/WEB-INF/web.xml">
+        	<fileset dir="src/main/webapp"/>
+        </war>
+    </target>
+    <target name="build-subprojects">
+        <ant antfile="build.xml" dir="${MaterialDao.location}" inheritAll="false" target="build-project">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+    	<jar destfile="src/main/webapp/WEB-INF/lib/MaterialDao.jar" basedir="${MaterialDao.location}/target/classes"/>
+    </target>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="src/main/webapp/WEB-INF/classes" includeantruntime="false" source="${source}" target="${target}" encoding="${encoding}" compiler="${compiler}">
+            <src path="src/main/java"/>
+            <src path="src/main/resources"/>
+            <src path=".apt_generated"/>
+            <classpath refid="Material.classpath"/>
+        </javac>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="target/test-classes" includeantruntime="false" source="${source}" target="${target}" encoding="${encoding}" compiler="${compiler}">
+            <src path="src/test/java"/>
+            <src path="src/test/resources"/>
+            <classpath refid="Material.classpath"/>
+        </javac>
+    </target>
+    <!-- =================================================
+          checkstyle
+    ===================================================-->
+	<target name="checkstyle" >
+		<echo message="${basedir}"/>
+	    <taskdef resource="checkstyletask.properties"
+	             classpath="${basedir}/checkstyle-6.0-all.jar" />
+	    <checkstyle config="${basedir}/MaterialCheckstyle.xml" classpathref="Material.classpath">
+	        <fileset dir="${MaterialDao.location}"
+	            includes="src/main/**/*.java"
+	            excludes="test/**"/>
+	         <formatter type="xml" tofile="${report.dir}/checkstyle_materialdao_report.xml"/>
+	    </checkstyle>
+	    <checkstyle config="${basedir}/MaterialCheckstyle.xml" classpathref="Material.classpath">
+	        <fileset dir="${basedir}"
+	            includes="src/main/**/*.java"
+	            excludes="test/**"/>
+	         <formatter type="xml" tofile="${report.dir}/checkstyle_material_report.xml"/>
+	    </checkstyle>
+	</target>
+    <!-- =================================
+          target: findbugs
+    ================================= -->
+    <target name="findbugs">
+        <taskdef name="findbugs"
+            classname="edu.umd.cs.findbugs.anttask.FindBugsTask"
+            classpath="${findbugs.dir}/lib/findbugs-ant.jar">
+        </taskdef>
+        <findbugs home="${MaterialDao.location}/findbugs"
+                  output="xml"
+                  outputFile="${report.dir}/findbugs_report_materialdao.xml" >
+            <class location="${MaterialDao.location}/target/classes" />
+        </findbugs>
+        <findbugs home="${findbugs.dir}"
+                  output="xml"
+                  outputFile="${report.dir}/findbugs_report_material.xml" >
+            <class location="src/main/webapp/WEB-INF/classes" />
+        </findbugs>
+    </target>
+    <!-- =================================================
+      build all project
+    ===================================================-->
+      <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+</project>

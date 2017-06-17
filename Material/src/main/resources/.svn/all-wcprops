@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/material-proj/!svn/ver/339/mtcloud/trunk/Material/src/main/resources
+END
+convention.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/convention.dicon
+END
+MTRMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/MTRMessages_ja.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/log4j.properties
+END
+s2jdbc.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/s2jdbc.dicon
+END
+MTRMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/MTRMessages.properties
+END
+jdbc.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/material-proj/!svn/ver/339/mtcloud/trunk/Material/src/main/resources/jdbc.dicon
+END
+env.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/env.txt
+END
+app.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/material-proj/!svn/ver/304/mtcloud/trunk/Material/src/main/resources/app.dicon
+END
+s2container.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/s2container.dicon
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/application.properties
+END
+env_ut.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/env_ut.txt
+END
+material.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/material-proj/!svn/ver/124/mtcloud/trunk/Material/src/main/resources/material.properties
+END
+creator.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/creator.dicon
+END
+application_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/material-proj/!svn/ver/270/mtcloud/trunk/Material/src/main/resources/application_ja.properties
+END
+customizer.dicon
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/customizer.dicon
+END

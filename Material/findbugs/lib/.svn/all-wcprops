@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib
+END
+jcip-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/jcip-annotations.jar
+END
+findbugs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/findbugs.jar
+END
+jaxen-1.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/jaxen-1.1.6.jar
+END
+buggy.icns
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/buggy.icns
+END
+bcel-6.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/bcel-6.0-SNAPSHOT.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/commons-lang-2.6.jar
+END
+asm-debug-all-5.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/asm-debug-all-5.0.2.jar
+END
+annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/annotations.jar
+END
+jdepend-2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/jdepend-2.9.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/dom4j-1.6.1.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/ant.jar
+END
+jsr305.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/jsr305.jar
+END
+yjp-controller-api-redist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/yjp-controller-api-redist.jar
+END
+jFormatString.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/jFormatString.jar
+END
+findbugs-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/findbugs/lib/findbugs-ant.jar
+END

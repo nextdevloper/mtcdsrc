@@ -1,0 +1,82 @@
+10
+
+dir
+346
+http://54.68.183.94/svn/material-proj/mtcloud/trunk/MaterialDao/src/main/java/META-INF/org/x/material/dao
+http://54.68.183.94/svn/material-proj
+
+
+
+2016-09-21T12:17:47.534080Z
+331
+hirano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+829f866a-539a-d847-80ba-875a59d1fe99
+
+IdNumberingDao
+dir
+
+MAccountAccountBlockDao
+dir
+
+MAccountBlockDao
+dir
+
+MAccountDao
+dir
+
+MBoxDao
+dir
+
+MBoxMaterialDao
+dir
+
+MCodeDao
+dir
+
+MDBEnviromentDao
+dir
+
+MLocationBoxDao
+dir
+
+MLocationBoxMaterialDao
+dir
+
+MLocationDao
+dir
+
+MMaterialDao
+dir
+
+MRBoxmaterialDao
+dir
+
+MRLocboxDao
+dir
+
+MStructAccDao
+dir
+
+TMsgSendNewsDao
+dir
+
+TMsgSendNormalDao
+dir
+
+TMsgSendResultDao
+dir
+

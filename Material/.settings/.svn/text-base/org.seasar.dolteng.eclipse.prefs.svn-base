@@ -1,0 +1,9 @@
+DaoType=S2JDBC
+DefaultResourcePath=/Material/src/main/resources
+DefaultRootPackage=org.x.material
+DefaultSrcPath=/Material/src/main/java
+ServletPath=/Material
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+WebServer=http\://localhost\:8181
+eclipse.preferences.version=1

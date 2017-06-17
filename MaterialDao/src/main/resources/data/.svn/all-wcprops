@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/data
+END
+demo.1.log.db
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/data/demo.1.log.db
+END
+demo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/data/demo.sql
+END
+demo.index.db
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/data/demo.index.db
+END
+demo.data.db
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/MaterialDao/src/main/resources/data/demo.data.db
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use
+END
+MCodeDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MCodeDao.html
+END
+TMsgSendNormalDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/TMsgSendNormalDao.html
+END
+IdNumberingDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/IdNumberingDao.html
+END
+MBoxDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MBoxDao.html
+END
+MStructAccDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MStructAccDao.html
+END
+MAccountAccountBlockDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MAccountAccountBlockDao.html
+END
+MAccountDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MAccountDao.html
+END
+MLocationDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MLocationDao.html
+END
+MRStrctaccDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MRStrctaccDao.html
+END
+MBoxMaterialDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MBoxMaterialDao.html
+END
+MStructureDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MStructureDao.html
+END
+TMsgSendNewsDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/TMsgSendNewsDao.html
+END
+MLocationBoxDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MLocationBoxDao.html
+END
+MRBoxmaterialDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MRBoxmaterialDao.html
+END
+MAccountBlockDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MAccountBlockDao.html
+END
+MLocationBoxMaterialDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MLocationBoxMaterialDao.html
+END
+MRLocboxDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MRLocboxDao.html
+END
+TMsgSendResultDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/TMsgSendResultDao.html
+END
+MMaterialDao.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/material-proj/!svn/ver/233/mtcloud/trunk/Material/doc/org/x/material/dao/class-use/MMaterialDao.html
+END

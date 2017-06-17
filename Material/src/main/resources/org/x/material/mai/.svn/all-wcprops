@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/org/x/material/mai
+END
+MailMai_sendRegisterMail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/org/x/material/mai/MailMai_sendRegisterMail.ftl
+END
+MailMai_sendErrorMail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/org/x/material/mai/MailMai_sendErrorMail.ftl
+END
+MailMai_sendAuthMail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/material-proj/!svn/ver/10/mtcloud/trunk/Material/src/main/resources/org/x/material/mai/MailMai_sendAuthMail.ftl
+END

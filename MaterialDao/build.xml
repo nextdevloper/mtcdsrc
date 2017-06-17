@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="MaterialDao">
+    <property environment="env"/>
+    <property name="Material.location" value="../Material"/>
+    <property name="ECLIPSE_HOME" value="../../../devtools/pleiades4/eclipse/"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <property name="apt_generated" value="target/apt_generated"/>
+    <property name="compiler" value="javac1.7"/>
+    <property name="encoding" Value="UTF-8"/>
+    <path id="EAR ライブラリー.libraryclasspath"/>
+    <path id="MaterialDao.classpath">
+        <pathelement location="target/classes"/>
+        <pathelement location="target/test-classes"/>
+        <pathelement location="lib/aopalliance-1.0.jar"/>
+        <pathelement location="lib/cglib-nodep-2.1_3.jar"/>
+        <pathelement location="lib/commons-logging-1.1.jar"/>
+        <pathelement location="lib/easymock-2.4.jar"/>
+        <pathelement location="lib/easymockclassextension-2.4.jar"/>
+        <pathelement location="lib/freemarker-2.3.13.jar"/>
+        <pathelement location="lib/geronimo-annotation_1.0_spec-1.0.jar"/>
+        <pathelement location="lib/geronimo-jpa_3.0_spec-1.0.jar"/>
+        <pathelement location="lib/geronimo-jta_1.1_spec-1.0.jar"/>
+        <pathelement location="lib/geronimo-servlet_2.4_spec-1.0.jar"/>
+        <pathelement location="lib/h2-1.0.69.jar"/>
+        <pathelement location="lib/javassist-3.4.ga.jar"/>
+        <pathelement location="lib/junit-4.4.jar"/>
+        <pathelement location="lib/log4j-1.2.13.jar"/>
+        <pathelement location="lib/ognl-2.6.9-patch-20090427.jar"/>
+        <pathelement location="lib/poi-3.0-FINAL.jar"/>
+        <pathelement location="lib/s2-extension-2.4.45.jar"/>
+        <pathelement location="lib/s2-framework-2.4.45.jar"/>
+        <pathelement location="lib/s2-tiger-2.4.45.jar"/>
+        <pathelement location="lib/s2jdbc-gen-2.4.45.jar"/>
+        <pathelement location="lib/svnkit-1.2.0.4949.jar"/>
+        <pathelement location="lib/postgresql-9.1-902.jdbc4.jar"/>
+        <path refid="EAR ライブラリー.libraryclasspath"/>
+        <pathelement location="lib/doma-1.36.0.jar"/>
+        <pathelement location="lib/doma-gen-1.35.0.jar"/>
+    </path>
+    <target depends="clean" name="init">
+        <mkdir dir="target/classes"/>
+        <mkdir dir="target/test-classes"/>
+        <mkdir dir="${apt_generated}"/>
+        <copy includeemptydirs="false" todir="target/classes">
+            <fileset dir="src/main/java">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="target/classes">
+            <fileset dir="src/main/resources">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+<!--
+    	<copy includeemptydirs="false" todir="target/test-classes">
+            <fileset dir="src/test/java">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+-->
+<!--
+        <copy includeemptydirs="false" todir="target/test-classes">
+            <fileset dir="src/test/resources">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+-->
+<!--
+        <copy includeemptydirs="false" todir="target/classes">
+            <fileset dir=".apt_generated">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+-->
+    </target>
+              	
+    <target name="clean">
+        <delete dir="target/classes"/>
+        <delete dir="target/test-classes"/>
+        <delete dir="${apt_generated}"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac  fork="yes" debug="true" debuglevel="${debuglevel}" destdir="target/classes" includeantruntime="false" source="${source}" target="${target}" encoding="${encoding}" compiler="${compiler}">
+            <compilerarg line="-s ${apt_generated} -Adao.subpackage=impl -Adao.suffix=Impl" />
+            <src path="src/main/java"/>
+            <src path="src/main/resources"/>
+            <classpath refid="MaterialDao.classpath"/>
+        </javac>
+
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects">
+        <ant antfile="build.xml" dir="${Material.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${Material.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+    </target>
+<!--
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+-->
+</project>

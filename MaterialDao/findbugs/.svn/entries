@@ -1,0 +1,77 @@
+10
+
+dir
+346
+http://54.68.183.94/svn/material-proj/mtcloud/trunk/MaterialDao/findbugs
+http://54.68.183.94/svn/material-proj
+
+
+
+2014-11-02T01:07:19.769200Z
+10
+nakada
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+829f866a-539a-d847-80ba-875a59d1fe99
+
+README.txt
+file
+
+
+
+
+2014-11-02T05:01:07.091000Z
+f9e27409c87d0bbba67cab797b3c1d35
+2014-11-02T01:07:19.769200Z
+10
+nakada
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+633
+
+bin
+dir
+
+lib
+dir
+
+optionalPlugin
+dir
+
+plugin
+dir
+
+src
+dir
+
